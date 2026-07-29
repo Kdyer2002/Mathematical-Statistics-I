@@ -4,10 +4,10 @@ This repository contains selected coursework and assignments completed throughou
 
 ## Course Topics
 
-- Continuous Probability Distributions
-- Normal and Exponential Distributions
 - Beta and Joint Probability Distributions
 - Conditional Distributions and Independence
+- Continuous Probability Distributions
+- Normal and Exponential Distributions
 - Order Statistics and Transformations
 
 ## Skills Demonstrated
